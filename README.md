@@ -2,4 +2,4 @@
 
 Hi everyone,
 
-Manikq here. I am an upcoming student who is proficient in core java and learning Java EE concepts like struts, hibernate and spring framework.
+Manikq here. I am a Software developer primarily working on Dot net based applications web and mobile apps.
